@@ -1,3 +1,6 @@
+# FORK NOTE
+This is the same as the sql-fixtures package except all record fields and the specId are included in the results. The normal sql-fixtures package only includes the fields that were originally specified in the dataSpec and excludes the specId.
+
 # sql-fixtures
 
 Easily generate data that gets saved in the database, with foreign key dependencies automatically resolved. Ideal for integration tests and generating dummy data. Uses [knex](http://knexjs.org) internally.
