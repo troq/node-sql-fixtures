@@ -1,5 +1,5 @@
 # FORK NOTE
-This is the same as the sql-fixtures package except all record fields and the specId are included in the results. The normal sql-fixtures package only includes the fields that were originally specified in the dataSpec and excludes the specId.
+This is the same as the sql-fixtures package except it works automatically with json fields and all record fields and the specId are included in the results. The normal sql-fixtures package only includes the fields that were originally specified in the dataSpec and excludes the specId.
 
 # sql-fixtures
 
